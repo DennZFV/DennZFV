@@ -1,20 +1,16 @@
 # 🔐 DennZF - Ethical Hacker & Cybersecurity Specialist
 
 <div align="center">
-  
-  <!-- Modern Header with Gradient -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=DennZF&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Ethical%20Hacker%20%7C%20Cybersecurity%20Specialist&descAlignY=55&descSize=18" width="100%"/>
-  
-  <!-- Dynamic Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=🛡️+Cybersecurity+Consultant;🔍+Digital+Forensics+Specialist;🐛+Bug+Bounty+Hunter;⚡+Security+Researcher;💀+Ethical+Hacker" alt="Typing SVG" />
-  
   <br><br>
-  
 </div>
 
 ---
 
+<div align="center">
+
 ## 🎯 About Me
+
+</div>
 
 ```python
 class CyberSecurityExpert:
@@ -42,26 +38,19 @@ class CyberSecurityExpert:
         ]
 ```
 
-<div align="center">
-  
-**🔍 Passionate about protecting digital assets and strengthening security postures**  
-**🎯 Specialized in cutting-edge ethical hacking techniques and vulnerability research**  
-**🛡️ Committed to responsible disclosure and cybersecurity education**  
-**🌐 Active contributor to security communities and bug bounty platforms**
-
-</div>
-
 ---
 
 <div align="center">
-
-## 🛠️ Security Arsenal
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
+<div align="center">
+
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> Programming Languages
+
+</div>
 
 <div align="center">
 
@@ -80,7 +69,11 @@ class CyberSecurityExpert:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
+<div align="center">
+
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px"> Security Tools & Frameworks
+
+</div>
 
 <div align="center">
 
@@ -102,7 +95,11 @@ class CyberSecurityExpert:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
+<div align="center">
+
 ### <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="32px"> Development & Mobile
+
+</div>
 
 <div align="center">
 
@@ -118,7 +115,11 @@ class CyberSecurityExpert:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
+<div align="center">
+
 ### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> Networking & Systems
+
+</div>
 
 <div align="center">
 
@@ -140,7 +141,11 @@ class CyberSecurityExpert:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
+<div align="center">
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="32px"> Security Specializations
+
+</div>
 
 <div align="center">
 
@@ -179,7 +184,11 @@ class CyberSecurityExpert:
 
 ---
 
+<div align="center">
+
 ## 📊 Security Analytics & Performance
+
+</div>
 
 <div align="center">
   
@@ -199,7 +208,11 @@ class CyberSecurityExpert:
 
 ---
 
+<div align="center">
+
 ## 🏆 Achievements & Certifications
+
+</div>
 
 <div align="center">
   
