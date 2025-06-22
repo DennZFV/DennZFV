@@ -1,21 +1,17 @@
 <div align="center">
 
-  <!-- Modern Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=DennZF&fontSize=80&fontAlignY=40&animation=twinkling&fontColor=ffffff" width="100%" alt="DennZF Banner"/>
 
-  <!-- FIXED: Typing SVG Animation -->
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=🛡️+Elite+Cybersecurity+Consultant;🔍+Advanced+Digital+Forensics;🐛+Professional+Bug+Bounty+Hunter;⚡+Security+Research+Specialist;💀+Certified+Ethical+Hacker;🚀+Penetration+Testing+Expert" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Cyber+Security+Spesialist;Penetration+Testing;Bug+Bounty+Hunter;Certified+Ethical+Hacker;OSINT+Analyst;Network+Security" 
     alt="Typing SVG Animation" 
     width="100%"/>
 
-  <!-- Matrix Rain Effect -->
   <img 
     src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" 
     width="100%" 
     alt="Matrix Rain Effect"/>
 
-  <!-- Badges -->
   <img src="https://img.shields.io/badge/Status-Active-00FF00?style=for-the-badge&logo=statuspal&logoColor=white&labelColor=1a1b27" alt="Status Badge"/>
   <img src="https://img.shields.io/badge/Experience-5%2B%20Years-FF6B6B?style=for-the-badge&logo=target&logoColor=white&labelColor=1a1b27" alt="Experience Badge"/>
   <img src="https://img.shields.io/badge/Location-Global%20Remote-4ECDC4?style=for-the-badge&logo=world&logoColor=white&labelColor=1a1b27" alt="Location Badge"/>
@@ -29,7 +25,7 @@
 
 <div align="center">
 
-## 🎯 About Me
+## About Me
 
 </div>
 
@@ -69,7 +65,7 @@ class CyberSecurityExpert:
 
 <div align="center">
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> Programming Languages
+### width="32px"> Programming Languages
 
 </div>
 
@@ -92,7 +88,7 @@ class CyberSecurityExpert:
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px"> Security Tools & Frameworks
+### width="32px"> Security Tools And Frameworks
 
 </div>
 
@@ -118,7 +114,7 @@ class CyberSecurityExpert:
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="32px"> Development & Mobile
+### width="32px"> Development And Mobile App
 
 </div>
 
@@ -138,7 +134,7 @@ class CyberSecurityExpert:
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> Networking & Systems
+### width="32px"> Networking And System
 
 </div>
 
@@ -164,7 +160,7 @@ class CyberSecurityExpert:
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="32px"> Security Specializations
+### width="32px"> Security Specializations
 
 </div>
 
@@ -207,7 +203,7 @@ class CyberSecurityExpert:
 
 <div align="center">
 
-## 📊 Security Analytics & Performance
+## Security Analyst
 
 </div>
 
