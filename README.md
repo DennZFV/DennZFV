@@ -28,25 +28,25 @@
 class CyberSecurityExpert:
     def __init__(self):
         self.name = "DennZF"
-        self.role = "Senior Cybersecurity Specialist"
-        self.location = "🌍 Global Remote"
-        self.experience = "5+ Years"
+        self.role = "Cybersecurity Specialist"
+        self.location = "Global Remote"
+        self.experience = "7 Years"
         
     def specializations(self):
         return {
-            "penetration_testing": ["Web Apps", "Networks", "Mobile"],
-            "vulnerability_research": ["Zero-Day", "CVE Analysis"],
-            "digital_forensics": ["Incident Response", "Malware Analysis"],
+            "penetration_testing": ["Web App", "Networking", "Mobile App"],
+            "vulnerability_research": ["Zero-Day", "POC Analyst", "OSINT Analyst"],
+            "digital_forensics": ["Incident Response", "Malware Analyst"],
             "security_consulting": ["Risk Assessment", "Compliance"],
-            "mobile_security": ["Android", "iOS", "App Development"]
+            "mobile_security": ["Android", "IOS", "App Development"]
         }
         
     def current_focus(self):
         return [
-            "🔥 Advanced Persistent Threats (APT)",
-            "🤖 AI-Powered Security Testing", 
-            "📱 Mobile Application Security",
-            "⚡ Cloud Security Architecture"
+            "Advanced Persistent Threats",
+            "AI Powered Security Testing", 
+            "Mobile Application Security",
+            "Cloud Security Architecture"
         ]
 ```
 
