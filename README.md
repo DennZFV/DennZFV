@@ -2,14 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=DennZF&fontSize=80&fontAlignY=40&animation=twinkling&fontColor=ffffff" width="100%" alt="DennZF Banner"/>
 
-<!-- Typing Text Modern Style -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=800&color=39FF14&center=true&vCenter=true&width=900&lines=Cyber+Security+Specialist;Penetration+Testing+Expert;Bug+Bounty+Hunter;Certified+Ethical+Hacker;OSINT+Analyst+and+Threat+Hunter;Network+Security+Engineer" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=800&color=00CED1&center=true&vCenter=true&width=900&lines=Cyber+Security+Specialist;Penetration+Testing+Expert;Bug+Bounty+Hunter;Certified+Ethical+Hacker;OSINT+Analyst+and+Threat+Hunter;Network+Security+Engineer" 
     alt="Typing SVG Animation" />
 </p>
-
-
 
   <img 
     src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" 
@@ -263,18 +260,3 @@ class CyberSecurityExpert:
   </table>
   
 </div>
-
----
-
-<div align="center">
-  
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" width="100%"/>
-  
-</div>
-
-<!--
-**DennZF/DennZF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Remember: With great power comes great responsibility. Use your skills ethically! 🔐🛡️
--->
