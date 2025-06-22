@@ -65,7 +65,7 @@ class CyberSecurityExpert:
 
 <div align="center">
 
-### width="32px"> Programming Languages
+### Programming Languages
 
 </div>
 
@@ -88,7 +88,7 @@ class CyberSecurityExpert:
 
 <div align="center">
 
-### width="32px"> Security Tools And Frameworks
+### Security Tools And Frameworks
 
 </div>
 
@@ -114,7 +114,7 @@ class CyberSecurityExpert:
 
 <div align="center">
 
-### width="32px"> Development And Mobile App
+### Development And Mobile App
 
 </div>
 
@@ -134,7 +134,7 @@ class CyberSecurityExpert:
 
 <div align="center">
 
-### width="32px"> Networking And System
+### Networking And System
 
 </div>
 
@@ -160,7 +160,7 @@ class CyberSecurityExpert:
 
 <div align="center">
 
-### width="32px"> Security Specializations
+### Security Specializations
 
 </div>
 
@@ -227,7 +227,7 @@ class CyberSecurityExpert:
 
 <div align="center">
 
-## 🏆 Achievements & Certifications
+## Achievement & Certification
 
 </div>
 
