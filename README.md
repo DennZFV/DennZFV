@@ -2,10 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=DennZF&fontSize=80&fontAlignY=40&animation=twinkling&fontColor=ffffff" width="100%" alt="DennZF Banner"/>
 
+<p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Cyber+Security+Spesialist;Penetration+Testing;Bug+Bounty+Hunter;Certified+Ethical+Hacker;OSINT+Analyst;Network+Security" 
-    alt="Typing SVG Animation" 
-    width="100%"/>
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&background=00000000&vCenter=true&center=true&width=800&height=45&lines=🔥+Cyber+Security+Specialist;🛡️+Penetration+Testing+Expert;🐞+Bug+Bounty+Hunter;💀+Certified+Ethical+Hacker;🛰️+OSINT+Analyst+and+Threat+Hunter;🌐+Network+Security+Engineer" 
+    alt="Typing SVG Animation" />
+</p>
+
 
   <img 
     src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" 
