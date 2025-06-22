@@ -1,10 +1,7 @@
 <div align="center">
 
   <!-- Modern Animated Header -->
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=DennZF&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=🔐%20Ethical%20Hacker%20%7C%20Cybersecurity%20Specialist&descAlignY=60&descSize=20" 
-    width="100%" 
-    alt="DennZF Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=DennZF&fontSize=80&fontAlignY=40&animation=twinkling&fontColor=ffffff" width="100%" alt="DennZF Banner"/>
 
   <!-- FIXED: Typing SVG Animation -->
   <img 
