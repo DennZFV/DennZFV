@@ -1,7 +1,16 @@
-# 🔐 DennZF - Ethical Hacker & Cybersecurity Specialist
-
 <div align="center">
-  <br><br>
+<!-- Modern Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=DennZF&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=🔐%20Ethical%20Hacker%20%7C%20Cybersecurity%20Specialist&descAlignY=55&descSize=20" width="100%"/>
+<!-- Dynamic Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=🛡️+Elite+Cybersecurity+Consultant;🔍+Advanced+Digital+Forensics;🐛+Professional+Bug+Bounty+Hunter;⚡+Security+Research+Specialist;💀+Certified+Ethical+Hacker;🚀+Penetration+Testing+Expert" alt="Typing SVG" />
+<!-- Matrix Rain Effect -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Animated Badges -->
+<img src="https://img.shields.io/badge/Status-Active-00FF00?style=for-the-badge&logo=statuspal&logoColor=white&labelColor=1a1b27">
+<img src="https://img.shields.io/badge/Experience-5%2B%20Years-FF6B6B?style=for-the-badge&logo=experience&logoColor=white&labelColor=1a1b27">
+<img src="https://img.shields.io/badge/Location-Global%20Remote-4ECDC4?style=for-the-badge&logo=location&logoColor=white&labelColor=1a1b27">
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=deaafrizal&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS">
 </div>
 
 ---
