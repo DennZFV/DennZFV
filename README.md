@@ -2,11 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=DennZF&fontSize=80&fontAlignY=40&animation=twinkling&fontColor=ffffff" width="100%" alt="DennZF Banner"/>
 
+<!-- Typing Text Modern Style -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&background=00000000&vCenter=true&center=true&width=800&height=45&lines=🔥+Cyber+Security+Specialist;🛡️+Penetration+Testing+Expert;🐞+Bug+Bounty+Hunter;💀+Certified+Ethical+Hacker;🛰️+OSINT+Analyst+and+Threat+Hunter;🌐+Network+Security+Engineer" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=800&color=39FF14&center=true&vCenter=true&width=900&lines=Cyber+Security+Specialist;Penetration+Testing+Expert;Bug+Bounty+Hunter;Certified+Ethical+Hacker;OSINT+Analyst+and+Threat+Hunter;Network+Security+Engineer" 
     alt="Typing SVG Animation" />
 </p>
+
 
 
   <img 
