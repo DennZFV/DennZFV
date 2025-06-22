@@ -1,244 +1,265 @@
-# 🛡️ DennZF - Cyber Security Specialist Portfolio
+# 🔐 DennZF - Cyber Security Specialist
+
+<div align="center">
+  
+  <!-- Animated Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=DennZF&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cyber%20Security%20Specialist&descAlignY=51&descAlign=50"/>
+  
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🛡️+Cyber+Security+Specialist;🎯+Ethical+Hacking+Red+Team;🔍+Threats+Analyst;🕵️+OSINT+Analyst;🌐+Web+Application+Security;⚡+Senior+Pentester" alt="Typing SVG" />
+  
+  <!-- Matrix Rain Effect -->
+  <img src="https://github.com/DennZF/DennZF/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  
+</div>
+
+---
+
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+```python
+class CyberSecuritySpecialist:
+    def __init__(self):
+        self.name = "DennZF"
+        self.role = "Senior Cybersecurity Professional"
+        self.specializations = [
+            "🎯 Penetration Testing",
+            "🔴 Red Team Operations", 
+            "🛡️ Ethical Hacking",
+            "🔍 OSINT Analysis",
+            "⚠️ Threat Analysis",
+            "🌐 Web App Security"
+        ]
+        self.tools = {
+            "pentesting": ["Metasploit", "Burp Suite", "Nmap", "Wireshark"],
+            "osint": ["Maltego", "Shodan", "TheHarvester", "Recon-ng"],
+            "redteam": ["Cobalt Strike", "Empire", "BloodHound", "Mimikatz"],
+            "webapp": ["OWASP ZAP", "SQLMap", "Nikto", "Dirb"]
+        }
+        
+    def current_focus(self):
+        return "Securing the digital world, one vulnerability at a time 🔐"
+```
+
+---
+
+## 🛠️ Arsenal & Technologies
 
 <div align="center">
 
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=dennzf&color=00ff00&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/dennzf?style=social)](https://github.com/dennzf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/dennzf)
+### 🔥 Core Expertise
+<img src="https://skillicons.dev/icons?i=linux,python,bash,docker,kubernetes,aws,gcp,azure&theme=dark" />
 
-**Modern Animated GitHub Profile | Cybersecurity Professional**
+### 🎯 Security Tools
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
 
-[🔗 Live Demo](https://your-demo-link.com) • [📧 Contact](mailto:your-email@example.com) • [💼 LinkedIn](https://linkedin.com/in/dennzf)
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=python,go,javascript,c,cpp,java,powershell&theme=dark" />
+
+### 🌐 Web Technologies
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,mongodb&theme=dark" />
 
 </div>
 
 ---
 
-## 🎯 About This Project
+## 📊 GitHub Analytics
 
-A cutting-edge, fully animated GitHub profile showcasing cybersecurity expertise with modern web technologies. Built with React, TypeScript, and Tailwind CSS, featuring extensive animations and a professional cybersecurity-themed design.
-
-### 🚀 Key Features
-
-- **🎨 Modern Design**: Dark cybersecurity theme with gradient effects
-- **✨ Rich Animations**: Typing effects, particle backgrounds, hover transitions
-- **📱 Responsive**: Optimized for all devices and screen sizes
-- **⚡ Performance**: Built with Vite for lightning-fast loading
-- **🎭 Interactive**: Smooth animations and micro-interactions
-- **🔒 Security Themed**: Professional cybersecurity aesthetic
+<div align="center">
+  
+  <!-- GitHub Stats with Animation -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DennZF&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DennZF&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF"/>
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DennZF&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6B6B&currStreakLabel=00FF41"/>
+  
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DennZF&theme=redical&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF"/>
+  
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🏆 Achievements & Certifications
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<!-- Trophy Display -->
+<img src="https://github-profile-trophy.vercel.app/?username=DennZF&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
+
+### 🎖️ Professional Certifications
+```
+🔴 Certified Ethical Hacker (CEH)
+🎯 Offensive Security Certified Professional (OSCP)  
+🛡️ CISSP - Certified Information Systems Security Professional
+🔍 GCIH - GIAC Certified Incident Handler
+⚡ CompTIA Security+
+🌐 Certified Web Application Security Tester
+```
 
 </div>
 
-### Core Technologies
-- **Frontend**: React 18 with TypeScript
-- **Styling**: Tailwind CSS with custom animations
-- **Icons**: Lucide React
-- **Build Tool**: Vite
-- **Deployment**: Ready for Netlify/Vercel
-
 ---
 
-## 🎨 Design Features
-
-### 🌟 Animations & Effects
-- **Typing Animation**: Dynamic name typing effect
-- **Particle Background**: Floating animated particles
-- **Skill Bars**: Progressive loading animations
-- **Hover Effects**: Interactive transformations
-- **Scroll Animations**: Fade-in effects with staggered timing
-- **Gradient Text**: Animated gradient text effects
-
-### 🎯 Sections
-1. **Hero Section**: Animated introduction with typing effect
-2. **Skills Arsenal**: Interactive skill bars with proficiency levels
-3. **Security Projects**: Showcase of cybersecurity projects
-4. **Statistics**: Achievement counters and metrics
-5. **Contact**: Professional contact information
-
----
-
-## 🚀 Quick Start
-
-### Prerequisites
-- Node.js 18+ 
-- npm or yarn
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/dennzf/github-profile.git
-
-# Navigate to project directory
-cd github-profile
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-```
-
-### Build for Production
-
-```bash
-# Build the project
-npm run build
-
-# Preview production build
-npm run preview
-```
-
----
-
-## 📁 Project Structure
-
-```
-src/
-├── App.tsx              # Main application component
-├── index.css            # Global styles and animations
-├── main.tsx            # Application entry point
-└── vite-env.d.ts       # Vite type definitions
-
-public/
-├── vite.svg            # Vite logo
-└── ...
-
-config/
-├── tailwind.config.js  # Tailwind configuration
-├── vite.config.ts      # Vite configuration
-└── tsconfig.json       # TypeScript configuration
-```
-
----
-
-## 🎨 Customization
-
-### 🔧 Personal Information
-Update the following in `src/App.tsx`:
-- Name and titles
-- Skills and proficiency levels
-- Projects and descriptions
-- Contact information
-- Social media links
-
-### 🎭 Styling
-Modify colors and animations in:
-- `src/index.css` - Custom animations
-- `tailwind.config.js` - Theme configuration
-- Component classes - Tailwind utilities
-
-### 📊 Skills Section
-```typescript
-const skills = [
-  { 
-    name: 'Your Skill', 
-    level: 95, 
-    icon: YourIcon, 
-    color: 'from-color-500 to-color-600' 
-  },
-  // Add more skills...
-];
-```
-
----
-
-## 🌟 Key Highlights
-
-### 💼 Professional Expertise
-- **Cyber Security Specialist** - Advanced threat detection and analysis
-- **Ethical Hacking Red Team** - Penetration testing and vulnerability assessment
-- **Threats Analyst** - Risk assessment and security monitoring
-- **OSINT Analyst** - Open source intelligence gathering
-- **Web Application Security** - Secure coding and application testing
-- **Senior Pentester** - Comprehensive security auditing
-
-### 🏆 Achievements
-- 500+ Vulnerabilities Discovered
-- 50+ Security Audits Completed
-- 100+ Threat Analysis Reports
-- 24/7 Security Monitoring Experience
-
----
-
-## 📱 Responsive Design
-
-The profile is fully responsive and optimized for:
-- 📱 Mobile devices (320px+)
-- 📟 Tablets (768px+)
-- 💻 Desktops (1024px+)
-- 🖥️ Large screens (1440px+)
-
----
-
-## 🚀 Deployment
-
-### Netlify
-```bash
-# Build the project
-npm run build
-
-# Deploy to Netlify
-# Upload the 'dist' folder to Netlify
-```
-
-### Vercel
-```bash
-# Install Vercel CLI
-npm i -g vercel
-
-# Deploy
-vercel --prod
-```
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 📞 Contact
-
-**DennZF** - Cyber Security Specialist
-
-- 🌐 **Portfolio**: [your-website.com](https://your-website.com)
-- 💼 **LinkedIn**: [linkedin.com/in/dennzf](https://linkedin.com/in/dennzf)
-- 📧 **Email**: [your-email@example.com](mailto:your-email@example.com)
-- 🐙 **GitHub**: [@dennzf](https://github.com/dennzf)
-
----
+## 🎯 Specialization Areas
 
 <div align="center">
 
-**⭐ Star this repository if you found it helpful!**
+<table>
+<tr>
+<td width="50%">
 
-Made with ❤️ and ☕ by [DennZF](https://github.com/dennzf)
+### 🔴 Red Team Operations
+- Advanced Persistent Threat (APT) Simulation
+- Social Engineering Campaigns  
+- Physical Security Assessments
+- Custom Payload Development
+- Post-Exploitation Techniques
 
-*"In cybersecurity, paranoia is a virtue, not a vice."*
+</td>
+<td width="50%">
+
+### 🛡️ Penetration Testing
+- Network Infrastructure Testing
+- Web Application Security Testing
+- Mobile Application Security
+- Wireless Network Assessment
+- Cloud Security Evaluation
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔍 OSINT & Threat Intelligence
+- Digital Footprint Analysis
+- Dark Web Monitoring
+- Threat Actor Profiling
+- Vulnerability Intelligence
+- Cyber Threat Hunting
+
+</td>
+<td width="50%">
+
+### 🌐 Web Application Security
+- OWASP Top 10 Vulnerabilities
+- API Security Testing
+- Source Code Review
+- Secure Development Practices
+- DevSecOps Implementation
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📈 Security Metrics & Impact
+
+<div align="center">
+
+<!-- Custom Metrics -->
+<img src="https://img.shields.io/badge/Vulnerabilities_Found-500+-FF6B6B?style=for-the-badge&logo=target&logoColor=white"/>
+<img src="https://img.shields.io/badge/Security_Audits-50+-4ECDC4?style=for-the-badge&logo=shield&logoColor=white"/>
+<img src="https://img.shields.io/badge/Threat_Reports-100+-45B7D1?style=for-the-badge&logo=file-text&logoColor=white"/>
+<img src="https://img.shields.io/badge/Systems_Secured-200+-96CEB4?style=for-the-badge&logo=lock&logoColor=white"/>
+
+### 🎯 Recent Security Achievements
+```
+🔥 Discovered critical 0-day vulnerability in major web application
+🎯 Led successful red team exercise against Fortune 500 company  
+🛡️ Implemented security framework reducing incidents by 85%
+🔍 Identified advanced persistent threat targeting financial sector
+⚡ Developed automated security testing pipeline
+```
+
+</div>
+
+---
+
+## 🔥 Latest Security Projects
+
+<div align="center">
+
+<!-- Repository Cards -->
+<a href="https://github.com/DennZF/advanced-web-scanner">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DennZF&repo=advanced-web-scanner&theme=radical&hide_border=true&bg_color=0D1117"/>
+</a>
+
+<a href="https://github.com/DennZF/redteam-automation">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DennZF&repo=redteam-automation&theme=radical&hide_border=true&bg_color=0D1117"/>
+</a>
+
+<a href="https://github.com/DennZF/osint-intelligence-platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DennZF&repo=osint-intelligence-platform&theme=radical&hide_border=true&bg_color=0D1117"/>
+</a>
+
+<a href="https://github.com/DennZF/threat-hunting-toolkit">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DennZF&repo=threat-hunting-toolkit&theme=radical&hide_border=true&bg_color=0D1117"/>
+</a>
+
+</div>
+
+---
+
+## 🌐 Connect & Collaborate
+
+<div align="center">
+
+### 🤝 Let's Secure the Digital World Together
+
+<a href="mailto:dennzf@protonmail.com">
+  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/dennzf">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://twitter.com/DennZF_Sec">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+<a href="https://dennzf.medium.com">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+### 💬 Security Consultation Available
+```
+🔐 Penetration Testing Services
+🎯 Red Team Assessments  
+🛡️ Security Architecture Review
+🔍 Threat Intelligence Analysis
+⚡ Incident Response Planning
+```
+
+</div>
+
+---
+
+## 🎨 Visitor Counter & Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=DennZF&label=Profile%20Views&color=00FF41&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/DennZF?label=Followers&style=for-the-badge&color=00FF41&labelColor=000000"/>
+
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+
+### 💭 Security Quote of the Day
+*"In cybersecurity, paranoia is a virtue, not a vice. Stay vigilant, stay secure."* 🔐
+
+---
+
+<img src="https://raw.githubusercontent.com/DennZF/DennZF/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions"/>
+
+**⚡ "Securing the digital frontier, one vulnerability at a time" ⚡**
 
 </div>
