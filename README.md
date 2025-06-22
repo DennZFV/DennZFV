@@ -6,25 +6,26 @@
     width="100%" 
     alt="DennZF Banner"/>
 
-  <!-- Typing SVG Animation -->
+  <!-- FIXED: Typing SVG Animation -->
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=🛡️+Elite+Cybersecurity+Consultant;🔍+Advanced+Digital+Forensics;🐛+Professional+Bug+Bounty+Hunter;⚡+Security+Research+Specialist;💀+Certified+Ethical+Hacker;🚀+Penetration+Testing+Expert" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=🛡️+Elite+Cybersecurity+Consultant;🔍+Advanced+Digital+Forensics;🐛+Professional+Bug+Bounty+Hunter;⚡+Security+Research+Specialist;💀+Certified+Ethical+Hacker;🚀+Penetration+Testing+Expert" 
     alt="Typing SVG Animation" 
     width="100%"/>
 
-  <!-- Matrix Rain Background Effect -->
+  <!-- Matrix Rain Effect -->
   <img 
     src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" 
     width="100%" 
     alt="Matrix Rain Effect"/>
 
-  <!-- Badges Section -->
+  <!-- Badges -->
   <img src="https://img.shields.io/badge/Status-Active-00FF00?style=for-the-badge&logo=statuspal&logoColor=white&labelColor=1a1b27" alt="Status Badge"/>
   <img src="https://img.shields.io/badge/Experience-5%2B%20Years-FF6B6B?style=for-the-badge&logo=target&logoColor=white&labelColor=1a1b27" alt="Experience Badge"/>
   <img src="https://img.shields.io/badge/Location-Global%20Remote-4ECDC4?style=for-the-badge&logo=world&logoColor=white&labelColor=1a1b27" alt="Location Badge"/>
   <img src="https://komarev.com/ghpvc/?username=deaafrizal&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Counter"/>
 
 </div>
+
 
 
 ---
